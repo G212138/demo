@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/frame/scene/Teacher.fire",orientation:"landscape",jsList:[],bundleVers:{internal:"803f8",frameRes:"1494e",resources:"3dfe9",main:"26fe6"}};
